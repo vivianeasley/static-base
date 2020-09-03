@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^0.9.0",
-    "acorn": "^7.0.0",
+    "acorn": "^7.1.1",
     "atomically": "^1.3.2",
     "autoprefixer": "^9.6.5",
     "cssnano": "^4.1.10",
