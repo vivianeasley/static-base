@@ -1,1 +1,1 @@
-<div>This is global data: ${siteData.name}</div>
+<div>${siteData.title}</div>
